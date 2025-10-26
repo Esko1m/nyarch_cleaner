@@ -111,7 +111,7 @@ sudo rm -rf /var/log/nyarch_cleaner
 ## Contributing
 
 Feel free to fork, submit issues, or make pull requests.
-contributed by Deep.
+contributed by Deep ;).
 
 ---
 
